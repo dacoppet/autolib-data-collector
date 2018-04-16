@@ -1,0 +1,18 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "AzureWebJobsSecretStorageType": "Blob",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "AzureWebJobsDashboard": "",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
+    "WEBSITE_CONTENTSHARE": "aac-autoliba6ef",
+    "aac-autolib_sender_EVENTHUB": "",
+    "WEBSITE_SITE_NAME": "",
+    "AzureWebJobsStorage": ""
+  }
+}

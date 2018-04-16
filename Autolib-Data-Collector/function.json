@@ -1,0 +1,18 @@
+{
+  "bindings": [
+    {
+      "name": "myTimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */1 * * * *"
+    },
+    {
+      "type": "eventHub",
+      "name": "outputEventHubMessage",
+      "connection": "aac-autolib_sender_EVENTHUB",
+      "path": "outeventhub",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}
